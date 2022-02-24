@@ -3,17 +3,16 @@ Kaggle-Courses-Advanced-SQL
 
 -------
 
-1
-JOINs and UNIONs
+### 1 JOINs and UNIONs
 Combine information from multiple tables.
-2
-Analytic Functions
+
+### 2 Analytic Functions
 Perform complex calculations on groups of rows.
-3
-Nested and Repeated Data
+
+### 3 Nested and Repeated Data
 Learn to query complex datatypes in BigQuery.
-4
-Writing Efficient Queries
+
+### 4 Writing Efficient Queries
 Write queries to run faster and use less data.
 
 
